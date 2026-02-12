@@ -88,7 +88,7 @@ export default function Home() {
 
             {/* main image */}
             <Image
-              src="/cta1.jpg"
+              src="/cta1 (1).jpg"
               width={1200}
               height={800}
               alt="Fintech dashboard preview"
@@ -348,7 +348,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white p-6 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
           <Image
-          src="/icon-1.png"
+          src="/Icon-1.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -370,7 +370,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-2.png"
+          src="/Icon-2.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -392,7 +392,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-400">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-3.png"
+          src="/Icon-3.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -420,7 +420,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white p-6 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
            <Image
-          src="/icon-4.png"
+          src="/Icon-4.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -442,7 +442,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-5.png"
+          src="/Icon-5.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -464,7 +464,7 @@ export default function Home() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-400">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-6.png"
+          src="/Icon-6.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -497,7 +497,7 @@ export default function Home() {
       <div className="relative flex justify-center [animation:fadeInLeft_5s_cubic-bezier(0.16,1,0.3,1)_forwards]">
         <div className="w-full max-w-xl aspect-[4/3] rounded-3xl bg-gray-100 border shadow-sm flex items-center justify-center text-gray-400">
           <Image
-              src="/cta1.jpg"
+              src="/cta1 (1).jpg"
               width={1200}
               height={800}
               alt="Fintech dashboard preview"

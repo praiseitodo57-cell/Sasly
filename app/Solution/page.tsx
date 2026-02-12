@@ -71,7 +71,7 @@ export default function SectionHero() {
         <div className="rounded-2xl bg-white p-6 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
           <Image
-          src="/icon-1.png"
+          src="/Icon-1.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -93,7 +93,7 @@ export default function SectionHero() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-2.png"
+          src="/Icon-2.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -126,7 +126,7 @@ export default function SectionHero() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-400">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-3.png"
+          src="/Icon-3.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -147,7 +147,7 @@ export default function SectionHero() {
         <div className="rounded-2xl bg-white p-6 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
            <Image
-          src="/icon-4.png"
+          src="/Icon-4.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -177,7 +177,7 @@ export default function SectionHero() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-500">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-5.png"
+          src="/Icon-5.png"
           width={43}
           height={43}
           alt="Floating card"
@@ -199,7 +199,7 @@ export default function SectionHero() {
         <div className="rounded-2xl bg-white p-7 shadow-sm hover:shadow-lg transition hover:border border-green-400">
           <div className="mb-6 flex h-16 w-16 items-center justify-center rounded-xl bg-green-100 hover:bg-green-600">
             <Image
-          src="/icon-6.png"
+          src="/Icon-6.png"
           width={43}
           height={43}
           alt="Floating card"
