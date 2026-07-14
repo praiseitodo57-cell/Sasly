@@ -177,15 +177,15 @@ export default function Home() {
         </p>
 
         {/* IMAGE PLACEHOLDER */}
-        <div className="mt-auto h-70 rounded-2xl bg-gray-200 flex items-center justify-center text-gray-500">
-          <Image
+          <div className="relative mt-auto h-48 sm:h-56 md:h-64 rounded-2xl bg-gray-200 overflow-hidden">
+            <Image
               src="/feature-1.jpg"
-              width={400}
-              height={220}
-              alt="Floating card"
-              className="rounded-xl shadow-2xl"
-              />
-        </div>
+              alt="Security protocols illustration"
+              fill
+              sizes="(max-width: 768px) 100vw, 33vw"
+              className="rounded-xl object-cover shadow-2xl"
+            />
+          </div>
       </div>
 
       {/* CARD 2 */}
@@ -204,14 +204,14 @@ export default function Home() {
         </p>
 
         {/* IMAGE PLACEHOLDER */}
-        <div className="mt-auto h-70 rounded-2xl bg-gray-200 flex items-center justify-center text-gray-500">
-         <Image
-              src="/feature-2.jpg"
-              width={400}
-              height={220}
-              alt="Floating card"
-              className="rounded-xl shadow-2xl"
-              />
+        <div className="relative mt-auto h-48 sm:h-56 md:h-64 rounded-2xl bg-gray-200 overflow-hidden">
+          <Image
+            src="/feature-2.jpg"
+            alt="AI-powered analysis illustration"
+            fill
+            sizes="(max-width: 768px) 100vw, 33vw"
+            className="rounded-xl object-cover shadow-2xl"
+          />
         </div>
       </div>
 
@@ -231,14 +231,14 @@ export default function Home() {
         </p>
 
         {/* IMAGE PLACEHOLDER */}
-        <div className="mt-auto h-70 rounded-2xl bg-gray-200 flex items-center justify-center text-gray-500">
+        <div className="relative mt-auto h-48 sm:h-56 md:h-64 rounded-2xl bg-gray-200 overflow-hidden">
           <Image
-              src="/feature-3.jpg"
-              width={400}
-              height={220}
-              alt="Floating card"
-              className="rounded-xl shadow-2xl"
-              />
+            src="/feature-3.jpg"
+            alt="Payment integrations illustration"
+            fill
+            sizes="(max-width: 768px) 100vw, 33vw"
+            className="rounded-xl object-cover shadow-2xl"
+          />
         </div>
       </div>
 
